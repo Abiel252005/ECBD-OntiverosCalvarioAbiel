@@ -1,0 +1,251 @@
+venta_operacional_id,fecha,cliente_id,nombre_cliente,segmento,genero,producto_id,nombre_producto,categoria,marca,region_id,region,estado,municipio,vendedor_id,nombre_vendedor,canal,cantidad,precio_unitario,descuento,total_venta
+1,2025-03-13,C004,Luis Martínez,Distribuidor,M,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Aplicación,4,18.5,0.0,74.0
+2,2025-02-10,C004,Luis Martínez,Distribuidor,M,P005,Frijol,Granos,Semillas MX,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Aplicación,18,28.0,25.2,478.8
+3,2025-12-29,C001,María López,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Teléfono,14,20.0,0.0,280.0
+4,2025-04-03,C002,José Hernández,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Teléfono,20,20.0,0.0,400.0
+5,2025-05-13,C003,Ana García,Minorista,F,P007,Naranja,Frutas,CitriVer,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Teléfono,9,16.0,0.0,144.0
+6,2025-08-10,C001,María López,Minorista,F,P006,Café,Bebidas agrícolas,Sierra Alta,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Distribución,9,95.0,85.5,769.5
+7,2025-05-26,C007,Diana Torres,Distribuidor,F,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Teléfono,13,16.0,20.8,187.2
+8,2025-01-13,C005,Carmen Pérez,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Distribución,3,20.0,0.0,60.0
+9,2025-08-16,C006,Roberto Sánchez,Mayorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Mostrador,7,24.0,16.8,151.2
+10,2025-05-03,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Aplicación,6,18.5,0.0,111.0
+11,2025-10-07,C007,Diana Torres,Distribuidor,F,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Teléfono,7,95.0,33.25,631.75
+12,2025-01-19,C002,José Hernández,Mayorista,M,P009,Limón,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Mostrador,2,22.0,0.0,44.0
+13,2025-07-30,C002,José Hernández,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Mostrador,4,15.0,3.0,57.0
+14,2025-12-29,C003,Ana García,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Distribución,3,20.0,0.0,60.0
+15,2025-02-26,C005,Carmen Pérez,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Teléfono,3,24.0,0.0,72.0
+16,2025-02-19,C003,Ana García,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Aplicación,2,20.0,0.0,40.0
+17,2025-04-08,C006,Roberto Sánchez,Mayorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Distribución,3,24.0,0.0,72.0
+18,2025-01-12,C005,Carmen Pérez,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Aplicación,13,24.0,0.0,312.0
+19,2025-03-02,C003,Ana García,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Mostrador,7,18.5,0.0,129.5
+20,2025-09-08,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Teléfono,8,18.5,0.0,148.0
+21,2025-02-27,C005,Carmen Pérez,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V002,Elena Morales,Aplicación,11,24.0,0.0,264.0
+22,2025-01-16,C008,Miguel Flores,Minorista,M,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Mostrador,16,15.0,0.0,240.0
+23,2025-05-22,C001,María López,Minorista,F,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Distribución,18,12.5,11.25,213.75
+24,2025-03-13,C006,Roberto Sánchez,Mayorista,M,P006,Café,Bebidas agrícolas,Sierra Alta,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Distribución,20,95.0,0.0,1900.0
+25,2025-03-31,C006,Roberto Sánchez,Mayorista,M,P005,Frijol,Granos,Semillas MX,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Aplicación,9,28.0,0.0,252.0
+26,2025-09-27,C003,Ana García,Minorista,F,P006,Café,Bebidas agrícolas,Sierra Alta,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Distribución,5,95.0,47.5,427.5
+27,2025-04-08,C008,Miguel Flores,Minorista,M,P007,Naranja,Frutas,CitriVer,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Distribución,17,16.0,0.0,272.0
+28,2025-12-28,C003,Ana García,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Teléfono,8,24.0,0.0,192.0
+29,2025-09-23,C003,Ana García,Minorista,F,P004,Maíz,Granos,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Mostrador,17,12.5,0.0,212.5
+30,2025-01-12,C002,José Hernández,Mayorista,M,P009,Limón,Frutas,CitriVer,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Mostrador,19,22.0,0.0,418.0
+31,2025-04-02,C005,Carmen Pérez,Minorista,F,P009,Limón,Frutas,CitriVer,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Distribución,19,22.0,41.8,376.2
+32,2025-09-27,C006,Roberto Sánchez,Mayorista,M,P006,Café,Bebidas agrícolas,Sierra Alta,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Teléfono,10,95.0,0.0,950.0
+33,2025-05-03,C004,Luis Martínez,Distribuidor,M,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Teléfono,1,18.5,0.0,18.5
+34,2025-02-27,C002,José Hernández,Mayorista,M,P008,Plátano,Frutas,TropicalVer,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Aplicación,16,14.0,0.0,224.0
+35,2025-08-01,C007,Diana Torres,Distribuidor,F,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Teléfono,8,95.0,76.0,684.0
+36,2025-04-27,C006,Roberto Sánchez,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Aplicación,3,18.5,0.0,55.5
+37,2025-05-03,C005,Carmen Pérez,Minorista,F,P009,Limón,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Mostrador,9,22.0,0.0,198.0
+38,2025-03-20,C002,José Hernández,Mayorista,M,P009,Limón,Frutas,CitriVer,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Aplicación,17,22.0,18.7,355.3
+39,2025-02-05,C006,Roberto Sánchez,Mayorista,M,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Distribución,14,12.5,17.5,157.5
+40,2025-01-25,C007,Diana Torres,Distribuidor,F,P008,Plátano,Frutas,TropicalVer,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Aplicación,10,14.0,0.0,140.0
+41,2025-02-11,C002,José Hernández,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Aplicación,19,15.0,14.25,270.75
+42,2025-11-22,C005,Carmen Pérez,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Teléfono,18,15.0,0.0,270.0
+43,2025-10-28,C004,Luis Martínez,Distribuidor,M,P006,Café,Bebidas agrícolas,Sierra Alta,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Aplicación,13,95.0,61.75,1173.25
+44,2025-10-12,C007,Diana Torres,Distribuidor,F,P005,Frijol,Granos,Semillas MX,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Aplicación,17,28.0,0.0,476.0
+45,2025-12-16,C005,Carmen Pérez,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Aplicación,12,20.0,12.0,228.0
+46,2025-07-10,C002,José Hernández,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Distribución,12,20.0,0.0,240.0
+47,2025-03-12,C001,María López,Minorista,F,P009,Limón,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Mostrador,5,22.0,11.0,99.0
+48,2025-04-30,C007,Diana Torres,Distribuidor,F,P003,Lechuga,Hortalizas,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Teléfono,1,15.0,0.0,15.0
+49,2025-03-26,C008,Miguel Flores,Minorista,M,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Aplicación,17,95.0,161.5,1453.5
+50,2025-03-24,C002,José Hernández,Mayorista,M,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Distribución,6,28.0,0.0,168.0
+51,2025-02-13,C005,Carmen Pérez,Minorista,F,P008,Plátano,Frutas,TropicalVer,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Teléfono,19,14.0,0.0,266.0
+52,2025-04-27,C003,Ana García,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Teléfono,3,18.5,0.0,55.5
+53,2025-09-29,C007,Diana Torres,Distribuidor,F,P006,Café,Bebidas agrícolas,Sierra Alta,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Aplicación,14,95.0,0.0,1330.0
+54,2025-01-22,C006,Roberto Sánchez,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Aplicación,11,20.0,11.0,209.0
+55,2025-09-19,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Aplicación,15,18.5,0.0,277.5
+56,2025-08-20,C007,Diana Torres,Distribuidor,F,P007,Naranja,Frutas,CitriVer,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Mostrador,16,16.0,12.8,243.2
+57,2025-04-19,C005,Carmen Pérez,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V002,Elena Morales,Teléfono,4,24.0,0.0,96.0
+58,2025-08-26,C004,Luis Martínez,Distribuidor,M,P006,Café,Bebidas agrícolas,Sierra Alta,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Distribución,8,95.0,0.0,760.0
+59,2025-02-02,C001,María López,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Distribución,16,24.0,0.0,384.0
+60,2025-06-07,C006,Roberto Sánchez,Mayorista,M,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Mostrador,18,28.0,25.2,478.8
+61,2025-04-24,C003,Ana García,Minorista,F,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Aplicación,3,12.5,0.0,37.5
+62,2025-07-05,C001,María López,Minorista,F,P008,Plátano,Frutas,TropicalVer,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Aplicación,1,14.0,0.0,14.0
+63,2025-03-18,C005,Carmen Pérez,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Mostrador,18,18.5,0.0,333.0
+64,2025-04-24,C002,José Hernández,Mayorista,M,P004,Maíz,Granos,AgroFresco,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Aplicación,5,12.5,0.0,62.5
+65,2025-12-03,C004,Luis Martínez,Distribuidor,M,P010,Papa,Tubérculos,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Mostrador,12,20.0,0.0,240.0
+66,2025-05-12,C003,Ana García,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Teléfono,12,24.0,0.0,288.0
+67,2025-11-12,C002,José Hernández,Mayorista,M,P005,Frijol,Granos,Semillas MX,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Aplicación,7,28.0,0.0,196.0
+68,2025-03-21,C006,Roberto Sánchez,Mayorista,M,P005,Frijol,Granos,Semillas MX,R002,Córdoba,Veracruz,Córdoba,V001,Carlos Ruiz,Aplicación,2,28.0,5.6,50.4
+69,2025-09-07,C005,Carmen Pérez,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Mostrador,1,24.0,0.0,24.0
+70,2025-12-17,C008,Miguel Flores,Minorista,M,P008,Plátano,Frutas,TropicalVer,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Aplicación,6,14.0,0.0,84.0
+71,2025-05-16,C001,María López,Minorista,F,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V001,Carlos Ruiz,Mostrador,18,95.0,85.5,1624.5
+72,2025-05-01,C006,Roberto Sánchez,Mayorista,M,P004,Maíz,Granos,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Teléfono,2,12.5,2.5,22.5
+73,2025-02-02,C001,María López,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Distribución,4,18.5,0.0,74.0
+74,2025-08-04,C002,José Hernández,Mayorista,M,P006,Café,Bebidas agrícolas,Sierra Alta,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Teléfono,13,95.0,0.0,1235.0
+75,2025-05-07,C003,Ana García,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Distribución,11,24.0,0.0,264.0
+76,2025-07-06,C002,José Hernández,Mayorista,M,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Teléfono,3,28.0,0.0,84.0
+77,2025-06-27,C006,Roberto Sánchez,Mayorista,M,P005,Frijol,Granos,Semillas MX,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Mostrador,16,28.0,0.0,448.0
+78,2025-05-02,C003,Ana García,Minorista,F,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Teléfono,15,12.5,9.38,178.12
+79,2025-08-17,C008,Miguel Flores,Minorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Mostrador,16,24.0,0.0,384.0
+80,2025-12-17,C005,Carmen Pérez,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Teléfono,15,15.0,22.5,202.5
+81,2025-11-01,C007,Diana Torres,Distribuidor,F,P007,Naranja,Frutas,CitriVer,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Distribución,12,16.0,9.6,182.4
+82,2025-03-05,C008,Miguel Flores,Minorista,M,P005,Frijol,Granos,Semillas MX,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Teléfono,1,28.0,0.0,28.0
+83,2025-01-19,C008,Miguel Flores,Minorista,M,P005,Frijol,Granos,Semillas MX,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Aplicación,13,28.0,0.0,364.0
+84,2025-08-28,C004,Luis Martínez,Distribuidor,M,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Aplicación,12,18.5,0.0,222.0
+85,2025-01-27,C005,Carmen Pérez,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Mostrador,3,18.5,2.78,52.72
+86,2025-11-01,C003,Ana García,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V001,Carlos Ruiz,Mostrador,18,20.0,0.0,360.0
+87,2025-01-20,C007,Diana Torres,Distribuidor,F,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V001,Carlos Ruiz,Mostrador,3,95.0,0.0,285.0
+88,2025-10-02,C003,Ana García,Minorista,F,P009,Limón,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V002,Elena Morales,Mostrador,19,22.0,0.0,418.0
+89,2025-05-26,C005,Carmen Pérez,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Teléfono,2,15.0,3.0,27.0
+90,2025-07-29,C006,Roberto Sánchez,Mayorista,M,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Teléfono,20,16.0,16.0,304.0
+91,2025-12-11,C005,Carmen Pérez,Minorista,F,P004,Maíz,Granos,AgroFresco,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Mostrador,10,12.5,0.0,125.0
+92,2025-12-11,C002,José Hernández,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V002,Elena Morales,Distribución,12,15.0,18.0,162.0
+93,2025-11-22,C005,Carmen Pérez,Minorista,F,P009,Limón,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Distribución,5,22.0,11.0,99.0
+94,2025-08-17,C004,Luis Martínez,Distribuidor,M,P005,Frijol,Granos,Semillas MX,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Mostrador,4,28.0,11.2,100.8
+95,2025-09-25,C004,Luis Martínez,Distribuidor,M,P005,Frijol,Granos,Semillas MX,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Distribución,10,28.0,0.0,280.0
+96,2025-08-03,C002,José Hernández,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Distribución,10,15.0,15.0,135.0
+97,2025-10-20,C002,José Hernández,Mayorista,M,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Mostrador,13,95.0,0.0,1235.0
+98,2025-07-24,C001,María López,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Mostrador,11,24.0,0.0,264.0
+99,2025-09-24,C003,Ana García,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Distribución,2,15.0,1.5,28.5
+100,2025-08-01,C002,José Hernández,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Aplicación,11,20.0,22.0,198.0
+101,2025-03-04,C004,Luis Martínez,Distribuidor,M,P008,Plátano,Frutas,TropicalVer,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Distribución,8,14.0,0.0,112.0
+102,2025-09-30,C004,Luis Martínez,Distribuidor,M,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Mostrador,14,16.0,11.2,212.8
+103,2025-04-30,C008,Miguel Flores,Minorista,M,P008,Plátano,Frutas,TropicalVer,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Teléfono,14,14.0,19.6,176.4
+104,2025-10-05,C002,José Hernández,Mayorista,M,P004,Maíz,Granos,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Teléfono,17,12.5,10.63,201.87
+105,2025-07-26,C003,Ana García,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Teléfono,15,20.0,0.0,300.0
+106,2025-05-29,C004,Luis Martínez,Distribuidor,M,P008,Plátano,Frutas,TropicalVer,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Mostrador,6,14.0,0.0,84.0
+107,2025-01-23,C004,Luis Martínez,Distribuidor,M,P007,Naranja,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Mostrador,13,16.0,0.0,208.0
+108,2025-01-10,C007,Diana Torres,Distribuidor,F,P006,Café,Bebidas agrícolas,Sierra Alta,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Distribución,10,95.0,0.0,950.0
+109,2025-08-01,C003,Ana García,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Teléfono,12,15.0,0.0,180.0
+110,2025-12-08,C008,Miguel Flores,Minorista,M,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Distribución,9,18.5,8.33,158.17
+111,2025-02-21,C004,Luis Martínez,Distribuidor,M,P009,Limón,Frutas,CitriVer,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Mostrador,5,22.0,0.0,110.0
+112,2025-10-16,C003,Ana García,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Mostrador,12,18.5,0.0,222.0
+113,2025-07-10,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Aplicación,20,18.5,18.5,351.5
+114,2025-02-03,C003,Ana García,Minorista,F,P005,Frijol,Granos,Semillas MX,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Mostrador,4,28.0,11.2,100.8
+115,2025-02-04,C004,Luis Martínez,Distribuidor,M,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Aplicación,20,12.5,0.0,250.0
+116,2025-06-15,C008,Miguel Flores,Minorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Mostrador,1,24.0,0.0,24.0
+117,2025-09-13,C005,Carmen Pérez,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Teléfono,2,15.0,0.0,30.0
+118,2025-01-10,C005,Carmen Pérez,Minorista,F,P005,Frijol,Granos,Semillas MX,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Mostrador,2,28.0,0.0,56.0
+119,2025-01-11,C007,Diana Torres,Distribuidor,F,P008,Plátano,Frutas,TropicalVer,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Teléfono,8,14.0,5.6,106.4
+120,2025-11-21,C001,María López,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Mostrador,12,15.0,0.0,180.0
+121,2025-08-15,C008,Miguel Flores,Minorista,M,P009,Limón,Frutas,CitriVer,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Teléfono,7,22.0,0.0,154.0
+122,2025-03-24,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Teléfono,8,18.5,0.0,148.0
+123,2025-01-26,C004,Luis Martínez,Distribuidor,M,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Mostrador,2,18.5,1.85,35.15
+124,2025-04-13,C007,Diana Torres,Distribuidor,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Mostrador,9,24.0,10.8,205.2
+125,2025-07-08,C008,Miguel Flores,Minorista,M,P004,Maíz,Granos,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Mostrador,11,12.5,6.88,130.62
+126,2025-11-29,C005,Carmen Pérez,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Mostrador,6,15.0,9.0,81.0
+127,2025-03-02,C006,Roberto Sánchez,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Teléfono,5,20.0,10.0,90.0
+128,2025-09-26,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Aplicación,11,18.5,20.35,183.15
+129,2025-12-14,C003,Ana García,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Aplicación,3,18.5,5.55,49.95
+130,2025-09-10,C008,Miguel Flores,Minorista,M,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Teléfono,16,15.0,0.0,240.0
+131,2025-11-01,C004,Luis Martínez,Distribuidor,M,P008,Plátano,Frutas,TropicalVer,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Teléfono,4,14.0,0.0,56.0
+132,2025-01-11,C002,José Hernández,Mayorista,M,P005,Frijol,Granos,Semillas MX,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Mostrador,7,28.0,19.6,176.4
+133,2025-03-21,C008,Miguel Flores,Minorista,M,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Aplicación,16,95.0,0.0,1520.0
+134,2025-08-05,C006,Roberto Sánchez,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Aplicación,17,18.5,15.73,298.77
+135,2025-08-18,C006,Roberto Sánchez,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Teléfono,13,18.5,24.05,216.45
+136,2025-03-13,C004,Luis Martínez,Distribuidor,M,P007,Naranja,Frutas,CitriVer,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Mostrador,1,16.0,0.0,16.0
+137,2025-07-17,C003,Ana García,Minorista,F,P009,Limón,Frutas,CitriVer,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Aplicación,14,22.0,30.8,277.2
+138,2025-08-26,C008,Miguel Flores,Minorista,M,P004,Maíz,Granos,AgroFresco,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Mostrador,11,12.5,0.0,137.5
+139,2025-08-09,C001,María López,Minorista,F,P009,Limón,Frutas,CitriVer,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Aplicación,15,22.0,0.0,330.0
+140,2025-10-15,C007,Diana Torres,Distribuidor,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Aplicación,20,24.0,48.0,432.0
+141,2025-08-09,C004,Luis Martínez,Distribuidor,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V001,Carlos Ruiz,Teléfono,8,24.0,0.0,192.0
+142,2025-08-05,C006,Roberto Sánchez,Mayorista,M,P005,Frijol,Granos,Semillas MX,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Distribución,15,28.0,0.0,420.0
+143,2025-01-31,C007,Diana Torres,Distribuidor,F,P010,Papa,Tubérculos,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Aplicación,14,20.0,0.0,280.0
+144,2025-10-13,C005,Carmen Pérez,Minorista,F,P007,Naranja,Frutas,CitriVer,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Aplicación,4,16.0,0.0,64.0
+145,2025-07-05,C007,Diana Torres,Distribuidor,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Distribución,8,24.0,9.6,182.4
+146,2025-04-03,C003,Ana García,Minorista,F,P004,Maíz,Granos,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Distribución,6,12.5,0.0,75.0
+147,2025-03-29,C006,Roberto Sánchez,Mayorista,M,P005,Frijol,Granos,Semillas MX,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Mostrador,19,28.0,0.0,532.0
+148,2025-07-05,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Aplicación,19,18.5,35.15,316.35
+149,2025-08-10,C005,Carmen Pérez,Minorista,F,P004,Maíz,Granos,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Aplicación,15,12.5,0.0,187.5
+150,2025-07-01,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Distribución,2,18.5,3.7,33.3
+151,2025-03-11,C005,Carmen Pérez,Minorista,F,P005,Frijol,Granos,Semillas MX,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Distribución,12,28.0,0.0,336.0
+152,2025-03-10,C002,José Hernández,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Mostrador,1,15.0,0.75,14.25
+153,2025-09-11,C004,Luis Martínez,Distribuidor,M,P010,Papa,Tubérculos,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Distribución,13,20.0,0.0,260.0
+154,2025-05-17,C006,Roberto Sánchez,Mayorista,M,P004,Maíz,Granos,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Aplicación,12,12.5,15.0,135.0
+155,2025-08-21,C008,Miguel Flores,Minorista,M,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Distribución,11,15.0,0.0,165.0
+156,2025-10-30,C004,Luis Martínez,Distribuidor,M,P007,Naranja,Frutas,CitriVer,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Distribución,19,16.0,30.4,273.6
+157,2025-07-13,C005,Carmen Pérez,Minorista,F,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Teléfono,9,28.0,0.0,252.0
+158,2025-11-22,C008,Miguel Flores,Minorista,M,P008,Plátano,Frutas,TropicalVer,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Aplicación,2,14.0,0.0,28.0
+159,2025-09-14,C001,María López,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Teléfono,4,18.5,0.0,74.0
+160,2025-09-09,C007,Diana Torres,Distribuidor,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Distribución,14,24.0,0.0,336.0
+161,2025-12-08,C002,José Hernández,Mayorista,M,P007,Naranja,Frutas,CitriVer,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Mostrador,1,16.0,0.0,16.0
+162,2025-02-24,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Aplicación,8,18.5,7.4,140.6
+163,2025-09-15,C007,Diana Torres,Distribuidor,F,P010,Papa,Tubérculos,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Distribución,5,20.0,10.0,90.0
+164,2025-12-30,C006,Roberto Sánchez,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Teléfono,13,15.0,0.0,195.0
+165,2025-11-09,C008,Miguel Flores,Minorista,M,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Distribución,1,28.0,2.8,25.2
+166,2025-05-22,C006,Roberto Sánchez,Mayorista,M,P008,Plátano,Frutas,TropicalVer,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Aplicación,20,14.0,0.0,280.0
+167,2025-11-22,C005,Carmen Pérez,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Teléfono,1,24.0,1.2,22.8
+168,2025-05-21,C001,María López,Minorista,F,P008,Plátano,Frutas,TropicalVer,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Distribución,12,14.0,0.0,168.0
+169,2025-12-25,C004,Luis Martínez,Distribuidor,M,P004,Maíz,Granos,AgroFresco,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Mostrador,19,12.5,11.88,225.62
+170,2025-10-28,C001,María López,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Distribución,4,18.5,0.0,74.0
+171,2025-11-17,C002,José Hernández,Mayorista,M,P008,Plátano,Frutas,TropicalVer,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Mostrador,15,14.0,0.0,210.0
+172,2025-11-07,C004,Luis Martínez,Distribuidor,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Teléfono,8,24.0,0.0,192.0
+173,2025-11-11,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Distribución,3,18.5,0.0,55.5
+174,2025-02-03,C001,María López,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Aplicación,11,18.5,0.0,203.5
+175,2025-07-17,C006,Roberto Sánchez,Mayorista,M,P007,Naranja,Frutas,CitriVer,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Mostrador,17,16.0,0.0,272.0
+176,2025-11-17,C003,Ana García,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Teléfono,18,18.5,33.3,299.7
+177,2025-08-24,C002,José Hernández,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Distribución,11,20.0,11.0,209.0
+178,2025-10-19,C007,Diana Torres,Distribuidor,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Distribución,14,24.0,33.6,302.4
+179,2025-05-12,C005,Carmen Pérez,Minorista,F,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Teléfono,12,16.0,19.2,172.8
+180,2025-12-05,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Teléfono,10,18.5,0.0,185.0
+181,2025-09-04,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Aplicación,11,18.5,0.0,203.5
+182,2025-02-21,C002,José Hernández,Mayorista,M,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Mostrador,2,16.0,0.0,32.0
+183,2025-02-25,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Distribución,12,18.5,11.1,210.9
+184,2025-10-24,C005,Carmen Pérez,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Teléfono,3,20.0,6.0,54.0
+185,2025-11-13,C005,Carmen Pérez,Minorista,F,P006,Café,Bebidas agrícolas,Sierra Alta,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Distribución,11,95.0,52.25,992.75
+186,2025-12-30,C004,Luis Martínez,Distribuidor,M,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Distribución,6,16.0,4.8,91.2
+187,2025-04-17,C007,Diana Torres,Distribuidor,F,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Mostrador,20,28.0,0.0,560.0
+188,2025-08-15,C007,Diana Torres,Distribuidor,F,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Aplicación,10,28.0,0.0,280.0
+189,2025-06-05,C008,Miguel Flores,Minorista,M,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Aplicación,16,12.5,0.0,200.0
+190,2025-02-27,C002,José Hernández,Mayorista,M,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Teléfono,10,12.5,0.0,125.0
+191,2025-11-03,C004,Luis Martínez,Distribuidor,M,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Distribución,1,18.5,0.0,18.5
+192,2025-06-02,C005,Carmen Pérez,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Distribución,13,20.0,0.0,260.0
+193,2025-10-15,C001,María López,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Mostrador,6,18.5,0.0,111.0
+194,2025-12-11,C001,María López,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Aplicación,13,15.0,0.0,195.0
+195,2025-07-01,C001,María López,Minorista,F,P009,Limón,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Mostrador,4,22.0,4.4,83.6
+196,2025-09-13,C006,Roberto Sánchez,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Mostrador,8,15.0,12.0,108.0
+197,2025-11-15,C003,Ana García,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Mostrador,9,18.5,0.0,166.5
+198,2025-04-25,C004,Luis Martínez,Distribuidor,M,P010,Papa,Tubérculos,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V001,Carlos Ruiz,Distribución,14,20.0,14.0,266.0
+199,2025-04-06,C006,Roberto Sánchez,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Distribución,4,20.0,8.0,72.0
+200,2025-02-27,C007,Diana Torres,Distribuidor,F,P010,Papa,Tubérculos,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Aplicación,16,20.0,0.0,320.0
+201,2025-08-23,C003,Ana García,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Distribución,11,20.0,11.0,209.0
+202,2025-12-03,C003,Ana García,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V004,Sofía Ramírez,Distribución,17,15.0,25.5,229.5
+203,2025-10-27,C001,María López,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Mostrador,2,15.0,0.0,30.0
+204,2025-11-07,C007,Diana Torres,Distribuidor,F,P009,Limón,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Mostrador,6,22.0,13.2,118.8
+205,2025-11-10,C007,Diana Torres,Distribuidor,F,P010,Papa,Tubérculos,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Mostrador,15,20.0,0.0,300.0
+206,2025-03-11,C002,José Hernández,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Aplicación,13,20.0,0.0,260.0
+207,2025-04-01,C003,Ana García,Minorista,F,P004,Maíz,Granos,AgroFresco,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Mostrador,9,12.5,0.0,112.5
+208,2025-04-14,C001,María López,Minorista,F,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Teléfono,9,16.0,0.0,144.0
+209,2025-10-27,C006,Roberto Sánchez,Mayorista,M,P007,Naranja,Frutas,CitriVer,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Mostrador,20,16.0,0.0,320.0
+210,2025-10-21,C005,Carmen Pérez,Minorista,F,P002,Chile jalapeño,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Distribución,10,24.0,0.0,240.0
+211,2025-09-06,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Teléfono,11,18.5,20.35,183.15
+212,2025-09-30,C003,Ana García,Minorista,F,P008,Plátano,Frutas,TropicalVer,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Aplicación,7,14.0,9.8,88.2
+213,2025-03-18,C001,María López,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V001,Carlos Ruiz,Distribución,11,15.0,0.0,165.0
+214,2025-04-01,C002,José Hernández,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V002,Elena Morales,Distribución,10,15.0,0.0,150.0
+215,2025-08-15,C002,José Hernández,Mayorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Mostrador,6,24.0,7.2,136.8
+216,2025-02-27,C004,Luis Martínez,Distribuidor,M,P010,Papa,Tubérculos,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Mostrador,8,20.0,8.0,152.0
+217,2025-01-04,C003,Ana García,Minorista,F,P008,Plátano,Frutas,TropicalVer,R004,Papaloapan,Veracruz,Tierra Blanca,V004,Sofía Ramírez,Aplicación,10,14.0,14.0,126.0
+218,2025-01-15,C008,Miguel Flores,Minorista,M,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Distribución,4,18.5,0.0,74.0
+219,2025-03-23,C008,Miguel Flores,Minorista,M,P001,Tomate,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V003,Pedro Castillo,Teléfono,17,18.5,0.0,314.5
+220,2025-04-07,C002,José Hernández,Mayorista,M,P008,Plátano,Frutas,TropicalVer,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Teléfono,4,14.0,2.8,53.2
+221,2025-08-28,C004,Luis Martínez,Distribuidor,M,P008,Plátano,Frutas,TropicalVer,R003,Sotavento,Veracruz,Veracruz,V001,Carlos Ruiz,Aplicación,7,14.0,9.8,88.2
+222,2025-06-02,C003,Ana García,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R003,Sotavento,Veracruz,Veracruz,V003,Pedro Castillo,Aplicación,14,18.5,25.9,233.1
+223,2025-08-20,C006,Roberto Sánchez,Mayorista,M,P003,Lechuga,Hortalizas,AgroFresco,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Mostrador,16,15.0,0.0,240.0
+224,2025-11-24,C004,Luis Martínez,Distribuidor,M,P005,Frijol,Granos,Semillas MX,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Teléfono,1,28.0,2.8,25.2
+225,2025-08-03,C008,Miguel Flores,Minorista,M,P005,Frijol,Granos,Semillas MX,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Mostrador,3,28.0,0.0,84.0
+226,2025-03-16,C006,Roberto Sánchez,Mayorista,M,P004,Maíz,Granos,AgroFresco,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Teléfono,2,12.5,0.0,25.0
+227,2025-12-30,C004,Luis Martínez,Distribuidor,M,P009,Limón,Frutas,CitriVer,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Teléfono,8,22.0,17.6,158.4
+228,2025-04-17,C003,Ana García,Minorista,F,P004,Maíz,Granos,AgroFresco,R001,Altas Montañas,Veracruz,Orizaba,V002,Elena Morales,Distribución,5,12.5,3.12,59.38
+229,2025-08-17,C001,María López,Minorista,F,P005,Frijol,Granos,Semillas MX,R005,Huasteca,Veracruz,Tuxpan,V002,Elena Morales,Mostrador,13,28.0,18.2,345.8
+230,2025-02-08,C004,Luis Martínez,Distribuidor,M,P004,Maíz,Granos,AgroFresco,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Aplicación,10,12.5,6.25,118.75
+231,2025-02-01,C008,Miguel Flores,Minorista,M,P010,Papa,Tubérculos,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Aplicación,2,20.0,0.0,40.0
+232,2025-10-01,C002,José Hernández,Mayorista,M,P010,Papa,Tubérculos,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V002,Elena Morales,Teléfono,6,20.0,0.0,120.0
+233,2025-02-28,C007,Diana Torres,Distribuidor,F,P009,Limón,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Distribución,12,22.0,0.0,264.0
+234,2025-04-23,C008,Miguel Flores,Minorista,M,P009,Limón,Frutas,CitriVer,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Mostrador,20,22.0,22.0,418.0
+235,2025-05-18,C007,Diana Torres,Distribuidor,F,P007,Naranja,Frutas,CitriVer,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Mostrador,20,16.0,16.0,304.0
+236,2025-02-07,C001,María López,Minorista,F,P003,Lechuga,Hortalizas,AgroFresco,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Distribución,2,15.0,1.5,28.5
+237,2025-05-24,C002,José Hernández,Mayorista,M,P005,Frijol,Granos,Semillas MX,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Distribución,9,28.0,25.2,226.8
+238,2025-04-04,C005,Carmen Pérez,Minorista,F,P010,Papa,Tubérculos,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Mostrador,4,20.0,8.0,72.0
+239,2025-01-17,C003,Ana García,Minorista,F,P009,Limón,Frutas,CitriVer,R003,Sotavento,Veracruz,Veracruz,V004,Sofía Ramírez,Aplicación,18,22.0,0.0,396.0
+240,2025-06-08,C006,Roberto Sánchez,Mayorista,M,P005,Frijol,Granos,Semillas MX,R002,Córdoba,Veracruz,Córdoba,V003,Pedro Castillo,Mostrador,7,28.0,0.0,196.0
+241,2025-11-09,C002,José Hernández,Mayorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V001,Carlos Ruiz,Distribución,6,24.0,0.0,144.0
+242,2025-03-02,C003,Ana García,Minorista,F,P006,Café,Bebidas agrícolas,Sierra Alta,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Mostrador,10,95.0,0.0,950.0
+243,2025-11-22,C007,Diana Torres,Distribuidor,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V003,Pedro Castillo,Distribución,7,18.5,0.0,129.5
+244,2025-06-13,C006,Roberto Sánchez,Mayorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R004,Papaloapan,Veracruz,Tierra Blanca,V002,Elena Morales,Aplicación,19,24.0,0.0,456.0
+245,2025-06-28,C004,Luis Martínez,Distribuidor,M,P008,Plátano,Frutas,TropicalVer,R002,Córdoba,Veracruz,Córdoba,V004,Sofía Ramírez,Mostrador,9,14.0,0.0,126.0
+246,2025-10-10,C008,Miguel Flores,Minorista,M,P002,Chile jalapeño,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V003,Pedro Castillo,Aplicación,12,24.0,0.0,288.0
+247,2025-05-16,C004,Luis Martínez,Distribuidor,M,P001,Tomate,Hortalizas,CampoVerde,R002,Córdoba,Veracruz,Córdoba,V001,Carlos Ruiz,Aplicación,14,18.5,0.0,259.0
+248,2025-08-27,C004,Luis Martínez,Distribuidor,M,P009,Limón,Frutas,CitriVer,R003,Sotavento,Veracruz,Veracruz,V002,Elena Morales,Mostrador,8,22.0,8.8,167.2
+249,2025-12-15,C001,María López,Minorista,F,P001,Tomate,Hortalizas,CampoVerde,R001,Altas Montañas,Veracruz,Orizaba,V001,Carlos Ruiz,Mostrador,14,18.5,0.0,259.0
+250,2025-08-28,C002,José Hernández,Mayorista,M,P001,Tomate,Hortalizas,CampoVerde,R005,Huasteca,Veracruz,Tuxpan,V004,Sofía Ramírez,Mostrador,7,18.5,0.0,129.5
