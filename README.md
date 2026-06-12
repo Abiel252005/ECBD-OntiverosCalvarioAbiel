@@ -230,7 +230,7 @@ También se puede utilizar Anaconda para administrar las dependencias y ejecutar
 
 ---
 
-## ▶Instrucciones generales de ejecución
+## Instrucciones generales de ejecución
 
 ### 1. Clonar el repositorio
 
