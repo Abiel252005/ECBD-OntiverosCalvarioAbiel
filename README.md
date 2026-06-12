@@ -1,4 +1,4 @@
-# 📊 Repositorio de Extracción del Conocimiento de Bases de Datos
+# Repositorio de Extracción del Conocimiento de Bases de Datos
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👤 Información del alumno
+## Información del alumno
 
 | Dato | Información |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## 📖 Descripción general
+## Descripción general
 
 Este repositorio contiene las prácticas, ejercicios y proyectos desarrollados durante el primer parcial de la materia **Extracción del Conocimiento de Bases de Datos**.
 
@@ -51,13 +51,13 @@ El propósito principal del repositorio es demostrar que el análisis de datos n
 
 ---
 
-## 🎯 Objetivo general
+## Objetivo general
 
 Desarrollar un repositorio académico organizado, documentado y actualizado que integre prácticas de limpieza, análisis descriptivo, visualización, interpretación y generación de conocimiento a partir de datasets reales, utilizando herramientas de análisis de datos y buenas prácticas de control de versiones.
 
 ---
 
-## ✅ Objetivos específicos
+## Objetivos específicos
 
 - Organizar correctamente los notebooks, datasets y evidencias.
 - Aplicar técnicas de limpieza y preparación de datos.
@@ -72,7 +72,7 @@ Desarrollar un repositorio académico organizado, documentado y actualizado que 
 
 ---
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
 ```text
 ECBD-OntiverosCalvarioAbiel/
@@ -116,7 +116,7 @@ ECBD-OntiverosCalvarioAbiel/
 
 ---
 
-## 📁 Descripción de las carpetas
+## Descripción de las carpetas
 
 ### `Notebooks`
 
@@ -150,7 +150,7 @@ Contiene capturas de pantalla o imágenes de los análisis realizados, como:
 
 ---
 
-## 📚 Datasets utilizados
+## Datasets utilizados
 
 Durante el primer parcial se utilizaron diferentes conjuntos de datos con fines académicos.
 
@@ -171,7 +171,7 @@ Durante el primer parcial se utilizaron diferentes conjuntos de datos con fines 
 
 ---
 
-## 🧪 Prácticas y notebooks
+## Prácticas y notebooks
 
 | Notebook | Descripción |
 |---|---|
@@ -190,7 +190,7 @@ Durante el primer parcial se utilizaron diferentes conjuntos de datos con fines 
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 | Herramienta | Uso |
 |---|---|
@@ -208,7 +208,7 @@ Durante el primer parcial se utilizaron diferentes conjuntos de datos con fines 
 
 ---
 
-## ⚙️ Requisitos previos
+## Requisitos previos
 
 Para ejecutar correctamente los notebooks se recomienda tener instalado:
 
@@ -230,7 +230,7 @@ También se puede utilizar Anaconda para administrar las dependencias y ejecutar
 
 ---
 
-## ▶️ Instrucciones generales de ejecución
+## ▶Instrucciones generales de ejecución
 
 ### 1. Clonar el repositorio
 
@@ -284,110 +284,7 @@ Esto permite comprobar que el notebook se ejecuta correctamente desde el inicio 
 
 ---
 
-## 🔗 Uso de rutas relativas
-
-Los notebooks están almacenados en la carpeta `Notebooks`, mientras que los datasets se encuentran en `DataSet`.
-
-Por ello, las rutas deben escribirse de forma relativa:
-
-```python
-import pandas as pd
-
-ventas = pd.read_csv("../DataSet/ventas.csv")
-clientes = pd.read_csv("../DataSet/clientes.csv")
-productos = pd.read_csv("../DataSet/productos.csv")
-regiones = pd.read_csv("../DataSet/regiones.csv")
-tiempo = pd.read_csv("../DataSet/tiempo.csv")
-```
-
-Para cargar otros archivos:
-
-```python
-netflix = pd.read_csv("../DataSet/netflix_titles.csv")
-facturas = pd.read_csv("../DataSet/ventas-por-factura.csv")
-```
-
----
-
-## 🧠 Modelo DIKW
-
-El modelo DIKW permite representar el proceso mediante el cual los datos se transforman en conocimiento útil.
-
-### 1. Datos
-
-Son los registros originales sin procesamiento ni interpretación.
-
-Ejemplo:
-
-- Identificador del producto.
-- Cantidad vendida.
-- Precio.
-- Fecha.
-- Cliente.
-- Región.
-
-### 2. Información
-
-Se obtiene cuando los datos se limpian, organizan, clasifican y resumen.
-
-Ejemplo:
-
-- Ventas totales por producto.
-- Ventas por región.
-- Cantidad de clientes.
-- Ingresos por periodo.
-
-### 3. Conocimiento
-
-Surge cuando los resultados son interpretados y se identifican patrones.
-
-Ejemplo:
-
-- Determinar qué productos tienen mayor demanda.
-- Identificar qué regiones generan más ventas.
-- Detectar periodos con mayor actividad comercial.
-
-### 4. Sabiduría
-
-Consiste en utilizar el conocimiento obtenido para tomar decisiones o generar recomendaciones.
-
-Ejemplo:
-
-- Aumentar el inventario de los productos más vendidos.
-- Crear promociones en regiones con menor actividad.
-- Preparar existencias para periodos con mayor demanda.
-
----
-
-## 🏗️ Práctica de Data Warehouse
-
-El notebook `ProductoDW.ipynb` desarrolla una práctica relacionada con la construcción y análisis de un Data Warehouse.
-
-Los archivos principales utilizados son:
-
-- `ventas_operacionales.csv`
-- `clientes.csv`
-- `productos.csv`
-- `regiones.csv`
-- `tiempo.csv`
-- `ventas.csv`
-
-La práctica permite analizar la transformación de datos operacionales en información estructurada para la consulta y toma de decisiones.
-
-### Elementos principales
-
-- Tabla de hechos de ventas.
-- Dimensión cliente.
-- Dimensión producto.
-- Dimensión región.
-- Dimensión tiempo.
-- Procesos de carga y transformación.
-- Consultas de análisis.
-- Interpretación de resultados.
-
----
-
-## 📸 Evidencias de los análisis
+## Evidencias de los análisis
 
 Esta sección debe contener capturas o imágenes representativas de las prácticas.
 
@@ -407,7 +304,7 @@ Esta sección debe contener capturas o imágenes representativas de las práctic
 
 ---
 
-## 📊 Resultados generales
+## Resultados generales
 
 Durante el desarrollo de las prácticas se realizaron actividades como:
 
@@ -430,25 +327,8 @@ Los resultados permitieron observar que una buena organización y limpieza de lo
 
 ---
 
-## 📝 Interpretación de resultados
 
-Cada notebook debe incluir una explicación escrita después de los resultados o gráficas.
-
-Una interpretación adecuada debe responder preguntas como:
-
-- ¿Qué muestra la gráfica?
-- ¿Cuál es el valor o categoría con mayor frecuencia?
-- ¿Qué tendencia se observa?
-- ¿Existen valores atípicos?
-- ¿Qué relación existe entre las variables?
-- ¿Qué conocimiento se obtiene?
-- ¿Qué decisión puede tomarse con base en el análisis?
-
-No es suficiente mostrar código o gráficas; también es necesario explicar el significado de los resultados.
-
----
-
-## 💡 Conclusiones generales
+## Conclusiones generales
 
 El desarrollo de las prácticas permitió comprender las principales etapas del proceso de extracción de conocimiento a partir de bases de datos.
 
@@ -464,50 +344,8 @@ En conclusión, este repositorio integra tanto el desarrollo técnico como la in
 
 ---
 
-## ⚠️ Consideraciones importantes
 
-- No se deben subir notebooks vacíos o incompletos.
-- Cada notebook debe ejecutarse correctamente.
-- El código debe incluir comentarios.
-- Las gráficas deben ser claras y legibles.
-- Cada análisis debe incluir interpretación.
-- Los archivos deben utilizar nombres claros.
-- Los datasets deben almacenarse en `DataSet`.
-- Los notebooks deben almacenarse en `Notebooks`.
-- No se deben subir carpetas `.ipynb_checkpoints`.
-- Los Issues realizados durante la revisión deben atenderse correctamente.
-- El repositorio debe mantenerse actualizado con commits descriptivos.
 
----
-
-## 🔄 Flujo de actualización del repositorio
-
-Antes de comenzar una nueva práctica:
-
-```bash
-git pull origin main
-```
-
-Después de guardar los cambios:
-
-```bash
-git status
-git add .
-git commit -m "Agrega descripción clara de la práctica realizada"
-git push origin main
-```
-
-Ejemplos de commits correctos:
-
-```text
-Agrega análisis descriptivo del dataset de Netflix
-Corrige rutas de los datasets en Lab06
-Añade interpretación y conclusiones al modelo DIKW
-Agrega práctica ProductoDW y dimensiones de ventas
-Actualiza evidencias y documentación del repositorio
-```
-
----
 
 ## 📌 Estado del proyecto
 
