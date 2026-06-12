@@ -286,23 +286,48 @@ Esto permite comprobar que el notebook se ejecuta correctamente desde el inicio 
 
 ## Evidencias de los análisis
 
-Esta sección debe contener capturas o imágenes representativas de las prácticas.
+Esta sección contiene las capturas o imágenes representativas de las prácticas realizadas durante el primer parcial.  
+Las evidencias permiten comprobar visualmente los resultados obtenidos en los notebooks, como gráficas, tablas, procesos de limpieza, consultas, creación de estructuras y análisis realizados.
 
-### Limpieza de datos
-
-![Limpieza de datos](Evidencias/limpieza_datos.png)
-
-### Análisis de ventas
-
-![Análisis de ventas](Evidencias/analisis_ventas.png)
-
-### Data Warehouse de productos
-
-![Data Warehouse](Evidencias/producto_dw.png)
-
-> Para que las imágenes se visualicen correctamente en GitHub, deben almacenarse dentro de la carpeta `Evidencias` y utilizar rutas relativas.
+Las imágenes deben guardarse dentro de la carpeta `Evidencias` para que puedan visualizarse correctamente en GitHub.
 
 ---
+
+### ¿Cómo obtener las capturas?
+
+Para agregar evidencias al repositorio se pueden realizar capturas de pantalla de los resultados más importantes de cada práctica.
+
+Algunas capturas recomendadas son:
+
+- Gráficas generadas en los notebooks.
+- Resultados de limpieza de datos.
+- Tablas con información procesada.
+- Consultas ejecutadas en PostgreSQL.
+- Creación de tablas del Data Warehouse.
+- Resultados del análisis descriptivo.
+- Aplicación del modelo DIKW.
+- Ejecución correcta de los notebooks.
+- Conclusiones o salidas importantes del código.
+
+En Windows se pueden tomar capturas con las siguientes opciones:
+
+| Opción | Descripción |
+|---|---|
+| `Windows + Shift + S` | Permite seleccionar una parte específica de la pantalla. |
+| `Impr Pant` | Captura toda la pantalla. |
+| Herramienta Recortes | Permite capturar, guardar y editar imágenes. |
+| Captura desde Jupyter | Se puede capturar directamente la gráfica o resultado mostrado en el notebook. |
+
+Después de tomar la captura, se debe guardar con un nombre claro dentro de la carpeta `Evidencias`.
+
+Ejemplos de nombres recomendados:
+
+```text
+Evidencias/limpieza_datos.png
+Evidencias/analisis_ventas.png
+Evidencias/producto_dw.png
+Evidencias/modelo_dikw.png
+Evidencias/consulta_postgresql.png
 
 ## Resultados generales
 
